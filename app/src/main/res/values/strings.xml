@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAPIJakarta</string>
+    <string name="signin">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="username">Isi username…</string>
+    <string name="password">Isi password…</string>
+</resources>
